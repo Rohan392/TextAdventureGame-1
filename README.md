@@ -1,13 +1,14 @@
-# Assignment D
+Kivna's Revenge
 
-Updated: 2022-09-11 by Nicole Wilson &lt;n.wilson@uleth.ca&gt;
+This is my final project for cpsc 2720 at the University of Lethbridge. It was developed in conjunction with Kaelan Croucher() Raj Pannu() and Rohan Sharma(). Credit also goes to Nicole Wilson and John Anvik for setting up various structures, such as the doxyfile, makefile and other configuration files.
 
-* The updates to the Makefile allow the project to compile with all tests on both Ubuntu and via gitlab.
+Overview:
+You have been hired by your cpsc 2720 professor to help him with his research into AI over the summer. However, soon after arriving onsite something goes terribly wrong. Figure out how to fix the problem with the other assistants, or perish to the lumbering beast that chases you through the halls. 
 
-* For an assignment requiring the use of a variety of tests and consisting of one program with associated classes that have header files and source files.
+Running the Game:
+You will need g++ to run the game. If you wish to view the tests, please download gtest on your computer.
+The following instructions are to be typed into bash.
+Steps:
+1. make compileProject          (generates the executable to run the game)
+2. ./project                    (runs the program)
 
-* The source files must be saved in a directory named <code>src/</code>, the header files must be stored in a directory named <code>include/</code>, and the test files (using gtest) must be stored in a directory named <code>test/</code>.
-
-* The file <code>main.cpp</code> for running the project must be stored in <code>src/project/</code> and the <code>main.cpp</code> for running the gtesting must be in <code>test/</code>.
-
-* The <code>Makefile</code> contains targets for unit testing (gtest), static testing, style check, coverage, and doxygen.
