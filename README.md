@@ -1,6 +1,6 @@
 Kivna's Revenge
 
-This is my final project for cpsc 2720 at the University of Lethbridge. It was developed in conjunction with Kaelan Croucher() Raj Pannu() and Rohan Sharma(). Credit also goes to Nicole Wilson and John Anvik for setting up various structures, such as the doxyfile, makefile and other configuration files.
+This is my final project for cpsc 2720 at the University of Lethbridge. It was developed in conjunction with Kaelan Croucher (https://github.com/KaelanCroucher) Raj Pannu() and Rohan Sharma(). Credit also goes to Nicole Wilson and John Anvik for setting up various structures, such as the doxyfile, makefile and other configuration files.
 
 Overview:
 You have been hired by your cpsc 2720 professor to help him with his research into AI over the summer. However, soon after arriving onsite something goes terribly wrong. Figure out how to fix the problem with the other assistants, or perish to the lumbering beast that chases you through the halls. 
