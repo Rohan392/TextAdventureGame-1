@@ -1,11 +1,10 @@
-Kivna's Revenge
 # Text-Based Adventure Game — C++
 
 ---
 
 ## Project Overview
 
-A terminal-based adventure game set within a 3x3 room grid. Players navigate through unique rooms, interact with objects, and face a reactive villain AI that tracks their movements based on noise levels. The game features branching narrative logic, immersive commands, and an inventory system for both player and rooms.
+Kivna's Revenge is a terminal-based adventure game set within a 3x3 room grid. Players navigate through unique rooms, interact with objects, and face a reactive villain AI that tracks their movements based on noise levels. The game features branching narrative logic, immersive commands, and an inventory system for both the player and the rooms.
 
 ---
 
@@ -42,5 +41,5 @@ You will need **g++** to compile and run the game. If you want to run the tests,
 ### Steps (run in your terminal/bash):
 
 ```bash
-make compileProject    # Compile the project and generate the executable
-./project              # Run the game
+- make     # Compile the project and generate the executable
+- ./project.exe              # Run the game
