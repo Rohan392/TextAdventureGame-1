@@ -47,3 +47,4 @@ You will need **g++** to compile and run the game. If you want to run the tests,
 ```bash
 make     # Compile the project and generate the executable
 ./project.exe              # Run the game
+make clean # clears the executable files   
