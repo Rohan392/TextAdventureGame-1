@@ -1,7 +1,11 @@
 # Text-Based Adventure Game — C++
 
 ---
-
+**Contributors:**  
+- [Kaelan Croucher](https://github.com/KaelanCroucher)  
+- Raj Pannu  
+- [Rohan Sharma](https://github.com/Rohan392)  
+---
 ## Project Overview
 
 Kivna's Revenge is a terminal-based adventure game set within a 3x3 room grid. Players navigate through unique rooms, interact with objects, and face a reactive villain AI that tracks their movements based on noise levels. The game features branching narrative logic, immersive commands, and an inventory system for both the player and the rooms.
