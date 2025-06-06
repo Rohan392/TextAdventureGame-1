@@ -4,7 +4,7 @@
 **Contributors:**  
 - [Kaelan Croucher](https://github.com/KaelanCroucher)  
 - Raj Pannu  
-- [Rohan Sharma](https://github.com/Rohan392)  
+
 ---
 ## Project Overview
 
